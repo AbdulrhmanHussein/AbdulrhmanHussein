@@ -56,7 +56,6 @@ I'm a **Machine Learning Engineer** with a strong foundation in **Deep Learning*
 
 - 💼 [LinkedIn](https://linkedin.com/in/abdulrhman-hussein)
 - 📧 Email: abdulrhmanhussein01@gmail.com
-- 🌐 [Portfolio (optional)](https://your-portfolio-link.com) <!-- Add if you have one -->
 
 ---
 
