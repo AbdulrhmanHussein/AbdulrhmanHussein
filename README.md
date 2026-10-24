@@ -1,66 +1,116 @@
-<h1 align="center">Hi, I'm Abdulrhman Hussein 👋</h1>
-<p align="center">
-  🎓 Machine Learning Engineer · Helwan University '24<br>
-  🔬 Passionate about solving real-world problems using AI
-</p>
+# Hi, I'm Abdulrhman Hussein 👋
+
+### AI Engineer | Machine Learning | Generative AI & LLM Applications
+
+🎓 Computer Science Graduate — Helwan University, Class of 2024  
+📍 Cairo, Egypt  
+🤖 Interested in building practical AI solutions using Machine Learning, NLP, LLMs, and Computer Vision.
+
+[LinkedIn](https://www.linkedin.com/in/abdulrhman-hussein) · [GitHub](https://github.com/AbdulrhmanHussein) · [Email](mailto:abdulrhmanhussein01@gmail.com)
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a **Machine Learning Engineer** with a strong foundation in **Deep Learning**, **NLP**, and **Computer Vision**. My mission is to build intelligent systems that make a meaningful impact. I have hands-on experience in deploying models and experimenting with state-of-the-art architectures using **Python**, **TensorFlow**, **PyTorch**, and more.
+I'm an AI Engineer and Computer Science graduate with hands-on experience building machine learning pipelines, LLM-powered applications, and deep learning models.
 
----
+My work includes **LLM fine-tuning, Retrieval-Augmented Generation (RAG), Text-to-SQL, NLP, Computer Vision, and MLOps**. I enjoy solving practical problems, experimenting with AI technologies, and turning models into usable applications.
 
-## 🛠️ Skills
-
-### 👨‍💻 Languages
-- Python
-- SQL
-
-### 📚 Frameworks & Libraries
-- TensorFlow, PyTorch, Keras
-- Scikit-learn, Hugging Face Transformers
-- NumPy, Pandas
-
-### 🧰 Tools & Platforms
-- MLflow, Git, VS Code, Google Colab, Jupyter Notebook
-
-### 📊 ML Domains
-- Natural Language Processing (NLP)
-- Computer Vision
-- Predictive Modeling & Feature Engineering
-- Model Evaluation & Tuning
-
-### 💡 Soft Skills
-- Analytical Thinking
-- Adaptability
-- Communication & Collaboration
+I'm currently looking for opportunities in **AI Engineering, Machine Learning Engineering, and Data Science**.
 
 ---
 
-## 📚 Featured Projects
+## 🛠️ Technical Skills
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔶 [**Sentiment Analysis with BERT**](https://github.com/AbdulrhmanHussein/Sentiment-Analysis-BERT) | Fine-tuned BERT on the SMILE dataset to classify sentiments. Achieved **98.1% accuracy**. | BERT, Transformers, NLP, PyTorch |
-| 🩺 [**Skin Cancer Detection**](https://github.com/AbdulrhmanHussein/Skin-Cancer-Detection) | Built a CNN from scratch to classify skin lesions with **98.7% test accuracy**. | TensorFlow, CNN, Image Classification |
-| 🧠 [**Brain Tumor Detection & Segmentation**](https://github.com/AbdulrhmanHussein/Brain-Tumor-Detection) | Designed a custom CNN to detect and segment brain tumors in MRI images using **IoU**. | CNN, Medical Imaging, Computer Vision |
-| 🧬 [**NER on Biomedical Texts**](https://github.com/AbdulrhmanHussein/NER-Biomedical) | Developed a Named Entity Recognition pipeline on biomedical corpora using traditional ML. | Scikit-learn, NLP |
-| 🛡️ [**Microsoft Malware Prediction**](https://github.com/AbdulrhmanHussein/Malware-Prediction) | Engineered features and trained classification models for malware detection. | TensorFlow, MLflow, EDA |
-| 🏠 [**Iowa House Prices**](https://github.com/AbdulrhmanHussein/Iowa-House-Prices) | Applied regression (Lasso/Ridge) and feature engineering to predict real estate prices. | Scikit-learn, Pandas, Regression |
+**Programming:** Python, SQL, JavaScript/Node.js
+
+**Machine Learning:** Scikit-learn, XGBoost, LightGBM, Feature Engineering, Model Evaluation, Hyperparameter Tuning
+
+**Deep Learning & Computer Vision:** PyTorch, TensorFlow, Keras, OpenCV, CNNs, Image Classification, Image Segmentation
+
+**NLP & Generative AI:** Hugging Face Transformers, BERT, LLMs, LoRA Fine-Tuning, RAG, LangChain, Embeddings, Semantic Search
+
+**Backend & Databases:** FastAPI, REST APIs, Streamlit, SQLite, MongoDB, ChromaDB
+
+**MLOps & Development Tools:** MLflow, Git, GitHub Actions, Docker Compose, Pytest, Ruff
+
+---
+
+## 🚀 Featured Projects
+
+### 1. SQLPilot — LLM-Powered Text-to-SQL System
+
+**Tech Stack:** Python, PyTorch, Hugging Face, Qwen2.5-Coder, LoRA, FastAPI, SQLite
+
+- Built a system that translates natural language questions into SQL queries using Qwen2.5-Coder-1.5B fine-tuned with LoRA.
+- Developed a FastAPI REST API for SQL generation, query execution, evaluation, and automated testing.
+- Used the Spider dataset and SQLite-based execution testing to evaluate query generation.
+
+🔗 [View Repository](https://github.com/AbdulrhmanHussein/SQLPilot)
+
+### 2. DocuMind — Bilingual Arabic-English RAG Assistant
+
+**Tech Stack:** Python, FastAPI, Cohere, ChromaDB, MongoDB, Streamlit, Docker Compose
+
+- Built a bilingual document assistant for querying PDF, DOCX, TXT, and Markdown files in Arabic and English.
+- Implemented document processing, text chunking, multilingual embeddings, semantic retrieval, and source citations.
+- Developed REST APIs and a Streamlit interface for document management and question answering.
+
+🔗 [View Repository](https://github.com/AbdulrhmanHussein/DocuMind)
+
+### 3. Microsoft Malware Prediction — ML & MLOps Pipeline
+
+**Tech Stack:** Python, Scikit-learn, LightGBM, MLflow, Pytest, Ruff, GitHub Actions
+
+- Built a machine learning pipeline processing approximately one million records, including preprocessing and feature engineering.
+- Trained and evaluated Random Forest and LightGBM classification models.
+- Integrated MLflow experiment tracking, automated tests, code-quality checks, and continuous integration.
+
+🔗 [View Repository](https://github.com/AbdulrhmanHussein/Microsoft-Malware-Prediction)
+
+### 4. Sentiment Analysis with BERT
+
+**Tech Stack:** Python, PyTorch, Hugging Face Transformers, BERT
+
+- Fine-tuned BERT-base-uncased for multi-class sentiment classification on the SMILE dataset.
+- Achieved 98.1% accuracy in the reported evaluation.
+
+🔗 [View Repository](https://github.com/AbdulrhmanHussein/Sentiment-Analysis-BERT)
+
+### 5. Brain Tumor Detection & Segmentation
+
+**Tech Stack:** Python, TensorFlow, OpenCV, CNNs
+
+- Developed an encoder-decoder CNN for brain tumor segmentation using MRI images.
+- Applied data augmentation and optimized segmentation using IoU metrics and Dice loss.
+
+🔗 [View Repository](https://github.com/AbdulrhmanHussein/Brain-Tumor-Detection)
+
+### 6. Skin Cancer Detection
+
+**Tech Stack:** Python, TensorFlow, OpenCV, CNNs
+
+- Developed a CNN-based skin lesion classification system.
+- Achieved 98.7% test accuracy in the reported evaluation.
+
+🔗 [View Repository](https://github.com/AbdulrhmanHussein/Skin-Cancer-Detection)
+
+
+---
+
+## 📚 Training & Professional Development
+
+- **Digital Egypt Pioneers Initiative (DEPI):** Machine Learning Engineering
+- **Egyptian Talents Academy — Huawei & NTI:** AI Track
+- **Elevvo:** Machine Learning Internship
+- **Tips Hindawi:** LLM Training and Internship
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/abdulrhman-hussein)
-- 📧 Email: abdulrhmanhussein01@gmail.com
+I'm open to opportunities, collaborations, and projects related to AI, Machine Learning, Generative AI, and NLP.
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-%23f7931e.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-%231472d2.svg?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-%2363c132.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulrhman-hussein)
+- 💻 [GitHub](https://github.com/AbdulrhmanHussein)
+- 📧 [Email Me](mailto:abdulrhmanhussein01@gmail.com)
